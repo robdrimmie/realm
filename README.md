@@ -40,7 +40,7 @@ Each "chapter" consists of entry to the region, discovery of the archetype, expl
 
 There are 5 major regions on a landmass that is maybe diamond-y with 5 major regions.
 
-'''
+```
                                           3  Kobolds
                                                 ^
                                              .    m m   .
@@ -56,9 +56,7 @@ There are 5 major regions on a landmass that is maybe diamond-y with 5 major reg
                                            .     ***    .
                                                  v
                                                  5 ??
-
-
-'''
+```
 
 ### West
 First region, contains the first two pieces of the amulet. Standard midwest country like place, gentle hills, grassy fields, forest that gets thicker and thicker as it moves south east.
