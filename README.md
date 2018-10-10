@@ -87,3 +87,35 @@ Perhaps entry at the bottom-ish area of the mountain then climb up to peak from 
 
 Amulet somehow allows group to defeat dragon, which then provides something to lead to the next major realm, somehow. Maybe. Or someone hears about the great victory and seeks them or something. 
 
+## encounters
+Since I'm specifically targeting a novice dnd group with some preconceptions about gameplay, early encounters will be pretty combat-heavy and skill-based encounters will be introduced gradually over time. 
+
+The two are not mutually exclusive, interest skill-based attempts during combat will be heavily rewarded
+
+### combat
+Each realm has a basic progression of enemy npcs. Difficulty of encounters should float somewhere between 95 - 80% likelihood of party victory for early encounters and scale up to maximum difficulty of 60% likelihood of party victory.
+
+- trash mobs. low-level (relative to the party) cannon fodder that provide mostly trash/sell-to-vendor type rewards maybe a chance here and there at something good.
+- seargent-level, same basic type as the canon-fodder but slightly higher level and slightly better trash
+- lieutenant level - roughly equivalent to one PC in terms of level, skill, etc. Named character, interesting-ish items, some back story and canned dialogue. Can be used as mini-boss, hold key information, etc.
+- boss - single entity that is roughly as powerful as the party when encountered one-on-one. Reduced difficulty if any trash or seargent mobs are present. Occasionally can be boss + lieutenant. 
+
+Some of the above changes depending on the archetype of the enemy. Zombie-type creatures are low skill, low hp, high numbers encounters so they can be overwhelming in number, as compared to say pirates where there are many but only so many people fit on a boat or something like ninjas that are few in number, but extremely difficult to hit.
+
+### skill-based
+#### environmental
+- climbing, 
+- trap detection/removal, 
+- finding the lever to open a door, 
+- do the thing to get the item to remove the barrier to move to the next section of the dungeon, 
+- search to find the hidden treasure, those sorts of challenges must exist. 
+
+Some basic early ones that focus on relatively predictable skills (someone to lift something heavy, someone to jump a gap, someone to disarm a trap) will be present in the first two major sections but some amount of time to understand the strenghts and weaknesses of the group and emphasize or exploit them will need to be made. 
+
+The dragon encounter/zone will need to have some complicated environmental encounters that build on and combine those encountered earlier in the game.
+
+#### conversational
+- characters that can be talked out of combat, 
+- characters that can provide hints to future puzzles, 
+- fill in details of overarching plot, 
+- opportunities with merchants for negotiation or theft
